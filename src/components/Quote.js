@@ -15,7 +15,7 @@ export default function Quote() {
     return (
         <div className="quote-wrapper">
             {/* <span className="block-quote">"</span> */}
-            <img src="https://www.pngall.com/wp-content/uploads/4/Quotation-Mark-PNG-Image.png" className="img-quote"></img>
+            <img src="https://www.pngall.com/wp-content/uploads/4/Quotation-Mark-PNG-Image.png" className="img-quote" alt=""></img>
             <h1>
                 {quote.length && quote[0].quote}
             </h1>
