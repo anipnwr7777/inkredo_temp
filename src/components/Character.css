@@ -5,8 +5,10 @@
 }
 
 .card--main-image{
-    height: 250px;
-    width: 180px;
+    /* height: 250px;
+    width: 180px; */
+    height: 350px;
+    width: 270px;
     border-radius: 10px;
 }
 
