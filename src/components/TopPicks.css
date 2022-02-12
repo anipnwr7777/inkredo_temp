@@ -1,0 +1,14 @@
+.top-picks-wrapper{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+    
+}
+
+.center-text{
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 5rem;
+}

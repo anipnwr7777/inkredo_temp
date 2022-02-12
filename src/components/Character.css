@@ -1,0 +1,19 @@
+
+.card--wrapper{
+    padding: 1rem;
+    font-size: 12px;
+}
+
+.card--main-image{
+    height: 250px;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.card--desc{
+    font-weight: 400;
+}
+
+.bold{
+    font-weight: bold;
+}

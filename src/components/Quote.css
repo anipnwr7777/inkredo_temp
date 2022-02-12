@@ -1,0 +1,24 @@
+h1{
+    font-size: 2rem;
+}
+
+.quote-wrapper{
+    width: 60%;
+    margin: 5rem auto;
+}
+
+@media screen and (max-width: 600px) {
+    h1{
+        font-size: 1.5rem;
+    }
+    
+}
+
+.block-quote{
+    font-size: 100px;
+}
+
+.img-quote{
+    width: 70px;
+}
+
