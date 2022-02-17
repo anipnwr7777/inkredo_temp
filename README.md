@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See this [link](https://goofy-boyd-cd51c5.netlify.app/) for the deployed version of the project.
+
+To run the app clone it in your system, open the terminal and run the commmand
+`npm start`.
+Boom, there you go!
 
 ## Available Scripts
 
